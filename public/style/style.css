@@ -1,0 +1,20 @@
+header{
+    font-size: 600%;
+    color:white;
+    font-weight:800;
+}
+.items-left{
+    padding: 4%;
+    font-weight: 900;
+    font-size: 200%;
+    color: white;
+}
+.bi-check{
+    font-size: xxx-large;
+    color: white;
+}
+
+.bi-x-lg{
+    font-size: xx-large;
+    color: white;
+}
